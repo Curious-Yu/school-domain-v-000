@@ -18,6 +18,7 @@ class School
   end
 
   def sort
-    @roster.each do |
+    @roster.each do |name, grade|
+      
 
 end
